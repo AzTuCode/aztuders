@@ -1,0 +1,14 @@
+C:\Users\tu201906137\source\repos\Homework1222021\Homework1222021\bin\Debug\netcoreapp3.1\Homework1222021.exe
+C:\Users\tu201906137\source\repos\Homework1222021\Homework1222021\bin\Debug\netcoreapp3.1\Homework1222021.deps.json
+C:\Users\tu201906137\source\repos\Homework1222021\Homework1222021\bin\Debug\netcoreapp3.1\Homework1222021.runtimeconfig.json
+C:\Users\tu201906137\source\repos\Homework1222021\Homework1222021\bin\Debug\netcoreapp3.1\Homework1222021.runtimeconfig.dev.json
+C:\Users\tu201906137\source\repos\Homework1222021\Homework1222021\bin\Debug\netcoreapp3.1\Homework1222021.dll
+C:\Users\tu201906137\source\repos\Homework1222021\Homework1222021\bin\Debug\netcoreapp3.1\Homework1222021.pdb
+C:\Users\tu201906137\source\repos\Homework1222021\Homework1222021\obj\Debug\netcoreapp3.1\Homework1222021.csproj.AssemblyReference.cache
+C:\Users\tu201906137\source\repos\Homework1222021\Homework1222021\obj\Debug\netcoreapp3.1\Homework1222021.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu201906137\source\repos\Homework1222021\Homework1222021\obj\Debug\netcoreapp3.1\Homework1222021.AssemblyInfoInputs.cache
+C:\Users\tu201906137\source\repos\Homework1222021\Homework1222021\obj\Debug\netcoreapp3.1\Homework1222021.AssemblyInfo.cs
+C:\Users\tu201906137\source\repos\Homework1222021\Homework1222021\obj\Debug\netcoreapp3.1\Homework1222021.csproj.CoreCompileInputs.cache
+C:\Users\tu201906137\source\repos\Homework1222021\Homework1222021\obj\Debug\netcoreapp3.1\Homework1222021.dll
+C:\Users\tu201906137\source\repos\Homework1222021\Homework1222021\obj\Debug\netcoreapp3.1\Homework1222021.pdb
+C:\Users\tu201906137\source\repos\Homework1222021\Homework1222021\obj\Debug\netcoreapp3.1\Homework1222021.genruntimeconfig.cache
